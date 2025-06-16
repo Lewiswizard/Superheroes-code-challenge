@@ -1,5 +1,5 @@
-# README.md
 # Flask Code Challenge - Superheroes
+### By Lewis Dickson
 Superheroes is an API for tracking heroes and their
 superpowers.
 
